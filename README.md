@@ -1,2 +1,1 @@
-# PBI
-Phoenix Business Ideas website
+## Phoenix Business Ideas website
