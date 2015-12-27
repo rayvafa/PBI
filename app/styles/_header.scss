@@ -1,0 +1,16 @@
+.phoenix-logo {
+  width: 100px;
+}
+
+.company-name {
+  display: inline-block;
+  padding-left: 20px;
+
+  @media (max-width: 768px) {
+    font-size: 15px;
+  }
+}
+
+.header {
+  margin: 20px 0;
+}
